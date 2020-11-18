@@ -26,6 +26,7 @@
 		01F454432362FF3400DFD364 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 01F454412362FF3400DFD364 /* LaunchScreen.storyboard */; };
 		01F454462362FF3400DFD364 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 01F454452362FF3400DFD364 /* main.m */; };
 		01F4544E2362FF6200DFD364 /* KZ_PlayerView.m in Sources */ = {isa = PBXBuildFile; fileRef = 01F4544D2362FF6200DFD364 /* KZ_PlayerView.m */; };
+		45F7059D256515990027E72B /* adsasd.m in Sources */ = {isa = PBXBuildFile; fileRef = 45F7059C256515990027E72B /* adsasd.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -68,6 +69,8 @@
 		01F454452362FF3400DFD364 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		01F4544C2362FF6200DFD364 /* KZ_PlayerView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = KZ_PlayerView.h; sourceTree = "<group>"; };
 		01F4544D2362FF6200DFD364 /* KZ_PlayerView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = KZ_PlayerView.m; sourceTree = "<group>"; };
+		45F7059B256515990027E72B /* adsasd.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = adsasd.h; sourceTree = "<group>"; };
+		45F7059C256515990027E72B /* adsasd.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = adsasd.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -149,6 +152,8 @@
 				01F454372362FF3400DFD364 /* AppDelegate.m */,
 				01F4544C2362FF6200DFD364 /* KZ_PlayerView.h */,
 				01F4544D2362FF6200DFD364 /* KZ_PlayerView.m */,
+				45F7059B256515990027E72B /* adsasd.h */,
+				45F7059C256515990027E72B /* adsasd.m */,
 				01F454392362FF3400DFD364 /* ViewController.h */,
 				01F4543A2362FF3400DFD364 /* ViewController.m */,
 				01F4543C2362FF3400DFD364 /* Main.storyboard */,
@@ -240,6 +245,7 @@
 				01F4544E2362FF6200DFD364 /* KZ_PlayerView.m in Sources */,
 				01103B0B23827DA9000001EE /* View+MASAdditions.m in Sources */,
 				01103B0823827DA9000001EE /* MASConstraintMaker.m in Sources */,
+				45F7059D256515990027E72B /* adsasd.m in Sources */,
 				01103B0C23827DA9000001EE /* MASConstraint.m in Sources */,
 				01103B0523827DA9000001EE /* NSLayoutConstraint+MASDebugAdditions.m in Sources */,
 				01103B0923827DA9000001EE /* MASLayoutConstraint.m in Sources */,
